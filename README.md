@@ -1,1 +1,1 @@
-# This the repo that I am using to learn the features of GIT.
+# This repo is being used to learn GIT and GITHUB through coursera.
