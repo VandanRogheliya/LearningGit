@@ -1,1 +1,1 @@
-Changing contents
+Editing fileA so a conflict will occure while rebasing XD
