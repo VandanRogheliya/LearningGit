@@ -1,1 +1,2 @@
 Editing fileA so a conflict will occure while rebasing XD
+Time to learn rebase!
