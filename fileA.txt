@@ -1,2 +1,1 @@
-Some content being set using branch featureX, 3rd time :)
-I can not see the commit in the local repo even after fetching. Let me solve this issue.
+Changing contents
